@@ -190,7 +190,7 @@
     "sw-toolbox": "3.6.0",
     "text-encoding": "0.6.4",
     "ts-md5": "1.2.2",
-    "zone.js": "0.8.19"
+    "zone.js": "0.15.0"
   },
   "devDependencies": {
     "@angular/cli": "1.7.4",
