@@ -122,7 +122,7 @@
     "@angular/tsc-wrapped": "4.4.6",
     "@biesbjerg/ngx-translate-po-http-loader": "3.0.1",
     "@ionic-native/android-fingerprint-auth": "4.11.0",
-    "@ionic-native/clipboard": "4.11.0",
+    "@ionic-native/clipboard": "4.20.0",
     "@ionic-native/core": "4.11.0",
     "@ionic-native/device": "4.11.0",
     "@ionic-native/fcm": "4.11.0",
